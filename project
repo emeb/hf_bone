@@ -1,0 +1,4 @@
+schematics		HF-Bone_pg1.sch HF-Bone_pg2.sch
+output-name		HF-Bone
+elements-dir	../pcb-elements/
+skip-m4
