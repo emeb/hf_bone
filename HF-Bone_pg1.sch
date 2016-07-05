@@ -2823,6 +2823,8 @@ T 3400 4200 5 10 0 0 0 6 1
 device=CONNECTOR_4
 T 5200 3300 5 10 0 0 0 0 1
 footprint=JUMPER4
+T 5200 4700 5 10 1 1 0 6 1
+refdes=J104
 }
 C 8900 -1700 1 0 0 EMBEDDED5V-plus-1.sym
 [
@@ -3778,7 +3780,7 @@ device=AD9865
 T 7595 10695 5 10 0 1 0 0 1
 footprint=CP-64-3
 T 10595 12195 5 10 1 1 0 0 1
-refdes=U101
+refdes=U103
 }
 C 12600 8100 1 0 0 EMBEDDEDgnd-1.sym
 [
