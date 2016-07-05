@@ -929,80 +929,6 @@ Element["onsolder" "hirose_fx2_40_h" "J101" "unknown" 3225.00mil 1075.00mil 30.0
 
 	)
 
-Element["" "CP-64-3" "U103" "unknown" 2715.00mil 1260.00mil 217.00mil 158.00mil 0 60 ""]
-(
-	Pad[171.00mil 147.00mil 186.00mil 147.00mil 11.00mil 30.00mil 17.00mil "TX5" "1" "square,edge2"]
-	Pad[171.00mil 127.00mil 186.00mil 127.00mil 11.00mil 30.00mil 17.00mil "TX4" "2" "square,edge2"]
-	Pad[171.00mil 108.00mil 186.00mil 108.00mil 11.00mil 30.00mil 17.00mil "TX3" "3" "square,edge2"]
-	Pad[171.00mil 88.00mil 186.00mil 88.00mil 11.00mil 30.00mil 17.00mil "TX2" "4" "square,edge2"]
-	Pad[171.00mil 68.00mil 186.00mil 68.00mil 11.00mil 30.00mil 17.00mil "TX1" "5" "square,edge2"]
-	Pad[171.00mil 49.00mil 186.00mil 49.00mil 11.00mil 30.00mil 17.00mil "TX0" "6" "square,edge2"]
-	Pad[171.00mil 29.00mil 186.00mil 29.00mil 11.00mil 30.00mil 17.00mil "RX5" "7" "square,edge2"]
-	Pad[171.00mil 9.00mil 186.00mil 9.00mil 11.00mil 30.00mil 17.00mil "RX4" "8" "square,edge2"]
-	Pad[171.00mil -9.00mil 186.00mil -9.00mil 11.00mil 30.00mil 17.00mil "RX3" "9" "square,edge2"]
-	Pad[171.00mil -29.00mil 186.00mil -29.00mil 11.00mil 30.00mil 17.00mil "RX2" "10" "square,edge2"]
-	Pad[171.00mil -49.00mil 186.00mil -49.00mil 11.00mil 30.00mil 17.00mil "RX1" "11" "square,edge2"]
-	Pad[171.00mil -68.00mil 186.00mil -68.00mil 11.00mil 30.00mil 17.00mil "RX0" "12" "square,edge2"]
-	Pad[171.00mil -88.00mil 186.00mil -88.00mil 11.00mil 30.00mil 17.00mil "RXEN" "13" "square,edge2"]
-	Pad[171.00mil -108.00mil 186.00mil -108.00mil 11.00mil 30.00mil 17.00mil "TXEN" "14" "square,edge2"]
-	Pad[171.00mil -128.00mil 186.00mil -128.00mil 11.00mil 30.00mil 17.00mil "TXCLK" "15" "square,edge2"]
-	Pad[171.00mil -147.00mil 186.00mil -147.00mil 11.00mil 30.00mil 17.00mil "RXCLK" "16" "square,edge2"]
-	Pad[147.00mil -187.00mil 147.00mil -171.00mil 11.00mil 30.00mil 17.00mil "DRVDD" "17" "square"]
-	Pad[127.00mil -187.00mil 127.00mil -171.00mil 11.00mil 30.00mil 17.00mil "DRVSS" "18" "square"]
-	Pad[108.00mil -187.00mil 108.00mil -171.00mil 11.00mil 30.00mil 17.00mil "CLKOUT1" "19" "square"]
-	Pad[88.00mil -187.00mil 88.00mil -171.00mil 11.00mil 30.00mil 17.00mil "SDIO" "20" "square"]
-	Pad[68.00mil -187.00mil 68.00mil -171.00mil 11.00mil 30.00mil 17.00mil "SDO" "21" "square"]
-	Pad[49.00mil -187.00mil 49.00mil -171.00mil 11.00mil 30.00mil 17.00mil "SCLK" "22" "square"]
-	Pad[29.00mil -187.00mil 29.00mil -171.00mil 11.00mil 30.00mil 17.00mil "/SEN" "23" "square"]
-	Pad[9.00mil -187.00mil 9.00mil -171.00mil 11.00mil 30.00mil 17.00mil "PGA5" "24" "square,warn"]
-	Pad[-9.00mil -187.00mil -9.00mil -171.00mil 11.00mil 30.00mil 17.00mil "PGA4" "25" "square,warn"]
-	Pad[-29.00mil -187.00mil -29.00mil -171.00mil 11.00mil 30.00mil 17.00mil "PGA3" "26" "square,warn"]
-	Pad[-49.00mil -187.00mil -49.00mil -171.00mil 11.00mil 30.00mil 17.00mil "PGA2" "27" "square,warn"]
-	Pad[-68.00mil -187.00mil -68.00mil -171.00mil 11.00mil 30.00mil 17.00mil "PGA1" "28" "square,warn"]
-	Pad[-88.00mil -187.00mil -88.00mil -171.00mil 11.00mil 30.00mil 17.00mil "PGA0" "29" "square,warn"]
-	Pad[-108.00mil -187.00mil -108.00mil -171.00mil 11.00mil 30.00mil 17.00mil "/RESET" "30" "square"]
-	Pad[-128.00mil -187.00mil -128.00mil -171.00mil 11.00mil 30.00mil 17.00mil "AVSS" "31" "square"]
-	Pad[-147.00mil -187.00mil -147.00mil -171.00mil 11.00mil 30.00mil 17.00mil "REFB" "32" "square"]
-	Pad[-187.00mil -147.00mil -171.00mil -147.00mil 11.00mil 30.00mil 17.00mil "REFT" "33" "square"]
-	Pad[-187.00mil -128.00mil -171.00mil -128.00mil 11.00mil 30.00mil 17.00mil "AVSS" "34" "square"]
-	Pad[-187.00mil -108.00mil -171.00mil -108.00mil 11.00mil 30.00mil 17.00mil "AVDD" "35" "square"]
-	Pad[-187.00mil -88.00mil -171.00mil -88.00mil 11.00mil 30.00mil 17.00mil "AVSS" "36" "square"]
-	Pad[-187.00mil -68.00mil -171.00mil -68.00mil 11.00mil 30.00mil 17.00mil "RX-" "37" "square"]
-	Pad[-187.00mil -49.00mil -171.00mil -49.00mil 11.00mil 30.00mil 17.00mil "RX+" "38" "square"]
-	Pad[-187.00mil -29.00mil -171.00mil -29.00mil 11.00mil 30.00mil 17.00mil "AVSS" "39" "square"]
-	Pad[-187.00mil -9.00mil -171.00mil -9.00mil 11.00mil 30.00mil 17.00mil "AVDD" "40" "square"]
-	Pad[-187.00mil 9.00mil -171.00mil 9.00mil 11.00mil 30.00mil 17.00mil "REFADJ" "41" "square"]
-	Pad[-187.00mil 29.00mil -171.00mil 29.00mil 11.00mil 30.00mil 17.00mil "REFIO" "42" "square"]
-	Pad[-187.00mil 49.00mil -171.00mil 49.00mil 11.00mil 30.00mil 17.00mil "AVDD" "43" "square"]
-	Pad[-187.00mil 68.00mil -171.00mil 68.00mil 11.00mil 30.00mil 17.00mil "AVSS" "44" "square"]
-	Pad[-187.00mil 88.00mil -171.00mil 88.00mil 11.00mil 30.00mil 17.00mil "IOUT_G-" "45" "square"]
-	Pad[-187.00mil 108.00mil -171.00mil 108.00mil 11.00mil 30.00mil 17.00mil "IOUT_N-" "46" "square"]
-	Pad[-187.00mil 127.00mil -171.00mil 127.00mil 11.00mil 30.00mil 17.00mil "AVSS" "47" "square"]
-	Pad[-187.00mil 147.00mil -171.00mil 147.00mil 11.00mil 30.00mil 17.00mil "AVSS" "48" "square"]
-	Pad[-147.00mil 171.00mil -147.00mil 186.00mil 11.00mil 30.00mil 17.00mil "IOUT_G+" "49" "square,edge2"]
-	Pad[-128.00mil 171.00mil -128.00mil 186.00mil 11.00mil 30.00mil 17.00mil "IOUT_N+" "50" "square,edge2"]
-	Pad[-108.00mil 171.00mil -108.00mil 186.00mil 11.00mil 30.00mil 17.00mil "IOUT_P-" "51" "square,edge2"]
-	Pad[-88.00mil 171.00mil -88.00mil 186.00mil 11.00mil 30.00mil 17.00mil "IOUT_P+" "52" "square,edge2"]
-	Pad[-68.00mil 171.00mil -68.00mil 186.00mil 11.00mil 30.00mil 17.00mil "MODE" "53" "square,edge2"]
-	Pad[-49.00mil 171.00mil -49.00mil 186.00mil 11.00mil 30.00mil 17.00mil "CONFIG" "54" "square,edge2"]
-	Pad[-29.00mil 171.00mil -29.00mil 186.00mil 11.00mil 30.00mil 17.00mil "CLKVSS" "55" "square,edge2"]
-	Pad[-9.00mil 171.00mil -9.00mil 186.00mil 11.00mil 30.00mil 17.00mil "XTAL" "56" "square,edge2"]
-	Pad[9.00mil 171.00mil 9.00mil 186.00mil 11.00mil 30.00mil 17.00mil "OSCIN" "57" "square,edge2"]
-	Pad[29.00mil 171.00mil 29.00mil 186.00mil 11.00mil 30.00mil 17.00mil "CLKVDD" "58" "square,edge2"]
-	Pad[49.00mil 171.00mil 49.00mil 186.00mil 11.00mil 30.00mil 17.00mil "DVSS" "59" "square,edge2"]
-	Pad[68.00mil 171.00mil 68.00mil 186.00mil 11.00mil 30.00mil 17.00mil "DVDD" "60" "square,edge2"]
-	Pad[88.00mil 171.00mil 88.00mil 186.00mil 11.00mil 30.00mil 17.00mil "CLKOUT2" "61" "square,edge2"]
-	Pad[108.00mil 171.00mil 108.00mil 186.00mil 11.00mil 30.00mil 17.00mil "PWR_DWN" "62" "square,edge2"]
-	Pad[127.00mil 171.00mil 127.00mil 186.00mil 11.00mil 30.00mil 17.00mil "DRVSS" "63" "square,edge2"]
-	Pad[147.00mil 171.00mil 147.00mil 186.00mil 11.00mil 30.00mil 17.00mil "DRVDD" "64" "square,edge2"]
-	Pad[0.0000 0.0000 0.0000 0.0000 295.00mil 30.00mil 301.00mil "PAD" "65" "square,edge2"]
-	ElementLine [-202.00mil -202.00mil 202.00mil -202.00mil 10.00mil]
-	ElementLine [-202.00mil 202.00mil 162.00mil 202.00mil 10.00mil]
-	ElementLine [-202.00mil -202.00mil -202.00mil 202.00mil 10.00mil]
-	ElementLine [202.00mil -202.00mil 202.00mil 162.00mil 10.00mil]
-	ElementLine [162.00mil 202.00mil 202.00mil 162.00mil 10.00mil]
-
-	)
 
 Element["" "MINICIRCUITS_CD637" "T102" "ADT8-1T" 2230.00mil 930.00mil -205.00mil 40.00mil 1 60 ""]
 (
@@ -1019,49 +945,8 @@ Element["" "MINICIRCUITS_CD637" "T102" "ADT8-1T" 2230.00mil 930.00mil -205.00mil
 
 	)
 
-Element["" "my_0805" "C107" "10uF_10V" 63.9470mm 920.00mil 96.81mil -19.00mil 0 60 ""]
-(
-	Pad[37.40mil -3.93mil 37.40mil 3.93mil 51.18mil 20.00mil 56.00mil "1" "1" "square"]
-	Pad[-37.40mil -3.93mil -37.40mil 3.93mil 51.18mil 20.00mil 56.00mil "2" "2" "square"]
-	ElementLine [77.99mil -44.52mil 77.99mil 44.52mil 10.00mil]
-	ElementLine [-77.99mil 44.52mil 77.99mil 44.52mil 10.00mil]
-	ElementLine [-77.99mil -44.52mil -77.99mil 44.52mil 10.00mil]
-	ElementLine [-77.99mil -44.52mil 77.99mil -44.52mil 10.00mil]
 
-	)
 
-Element["" "JUMPER4" "J103" "unknown" 1840.00mil 1715.00mil -105.00mil -250.00mil 1 75 ""]
-(
-	Pin[0.0000 0.0000 60.00mil 30.00mil 66.00mil 38.00mil "1" "1" "square"]
-	Pin[0.0000 -100.00mil 60.00mil 30.00mil 66.00mil 38.00mil "2" "2" "thermal(2X)"]
-	Pin[0.0000 -200.00mil 60.00mil 30.00mil 66.00mil 38.00mil "3" "3" ""]
-	Pin[0.0000 -300.00mil 60.00mil 30.00mil 66.00mil 38.00mil "4" "4" "thermal(1X)"]
-	ElementLine [50.00mil -350.00mil 50.00mil 50.00mil 10.00mil]
-	ElementLine [-50.00mil -350.00mil 50.00mil -350.00mil 10.00mil]
-	ElementLine [-50.00mil -350.00mil -50.00mil 50.00mil 10.00mil]
-	ElementLine [-50.00mil 50.00mil 50.00mil 50.00mil 10.00mil]
-	ElementLine [-50.00mil -50.00mil 50.00mil -50.00mil 10.00mil]
-	ElementLine [-50.00mil -50.00mil -50.00mil 50.00mil 10.00mil]
-
-	)
-
-Element["" "SJ1-3535N.fp" "J301" "unknown" 255.00mil 1010.00mil -5.7850mm 126.58mil 0 100 ""]
-(
-	Pin[259.84mil -43.31mil 89.00mil 20.00mil 95.00mil 59.00mil "Common" "1" "edge2"]
-	Pin[188.98mil 35.43mil 89.00mil 20.00mil 95.00mil 59.00mil "Mic" "2" "edge2"]
-	Pin[10.3000mm 35.43mil 89.00mil 20.00mil 95.00mil 59.00mil "Speaker" "3" "edge2"]
-	Pin[43.31mil -43.31mil 89.00mil 20.00mil 95.00mil 59.00mil "Mic" "4" "edge2"]
-	Pin[-51.18mil 35.43mil 89.00mil 20.00mil 95.00mil 59.00mil "Speaker" "5" "edge2"]
-	ElementLine [447.76mil -120.98mil 447.76mil 191.85mil 10.00mil]
-	ElementLine [-93.43mil 191.85mil 447.76mil 191.85mil 10.00mil]
-	ElementLine [-93.43mil -120.98mil 447.76mil -120.98mil 10.00mil]
-	ElementLine [-93.43mil 113.11mil -93.43mil 191.85mil 10.00mil]
-	ElementLine [-93.43mil -120.98mil -93.43mil -113.11mil 10.00mil]
-	ElementLine [-250.91mil 113.11mil -93.43mil 113.11mil 10.00mil]
-	ElementLine [-250.91mil -113.11mil -93.43mil -113.11mil 10.00mil]
-	ElementLine [-250.91mil -113.11mil -250.91mil 113.11mil 10.00mil]
-
-	)
 
 Element["" "HEADER12_2" "J201" "unknown" 2435.00mil 420.00mil -50.00mil 50.00mil 0 60 ""]
 (

@@ -273,6 +273,12 @@ ChangePinName(U103, 65, PAD)
 ChangePinName(C124, 2, 2)
 ChangePinName(C124, 1, 1)
 
+# Start of element J104
+ChangePinName(J104, 1, 1)
+ChangePinName(J104, 4, 4)
+ChangePinName(J104, 2, 2)
+ChangePinName(J104, 3, 3)
+
 # Start of element C112
 ChangePinName(C112, 2, 2)
 ChangePinName(C112, 1, 1)
