@@ -1,11 +1,11 @@
 # Pin name action command file
 
-# Start of element J301
-ChangePinName(J301, 5, Speaker)
-ChangePinName(J301, 4, Mic)
-ChangePinName(J301, 3, Speaker)
-ChangePinName(J301, 2, Mic)
-ChangePinName(J301, 1, Common)
+# Start of element J202
+ChangePinName(J202, 5, Speaker)
+ChangePinName(J202, 4, Mic)
+ChangePinName(J202, 3, Speaker)
+ChangePinName(J202, 2, Mic)
+ChangePinName(J202, 1, Common)
 
 # Start of element J201
 ChangePinName(J201, 11, 11)
