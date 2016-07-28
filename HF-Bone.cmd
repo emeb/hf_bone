@@ -152,6 +152,10 @@ ChangePinName(C203, 1, +)
 ChangePinName(C201, 2, -)
 ChangePinName(C201, 1, +)
 
+# Start of element R104
+ChangePinName(R104, 1, 1)
+ChangePinName(R104, 2, 2)
+
 # Start of element R103
 ChangePinName(R103, 1, 1)
 ChangePinName(R103, 2, 2)
@@ -163,36 +167,6 @@ ChangePinName(R102, 2, 2)
 # Start of element R101
 ChangePinName(R101, 1, 1)
 ChangePinName(R101, 2, 2)
-
-# Start of element JP101
-ChangePinName(JP101, 1, 1)
-ChangePinName(JP101, 2, 2)
-ChangePinName(JP101, 3, 3)
-
-# Start of element JP102
-ChangePinName(JP102, 1, 1)
-ChangePinName(JP102, 2, 2)
-ChangePinName(JP102, 3, 3)
-
-# Start of element JP103
-ChangePinName(JP103, 1, 1)
-ChangePinName(JP103, 2, 2)
-ChangePinName(JP103, 3, 3)
-
-# Start of element JP104
-ChangePinName(JP104, 1, 1)
-ChangePinName(JP104, 2, 2)
-ChangePinName(JP104, 3, 3)
-
-# Start of element JP105
-ChangePinName(JP105, 1, 1)
-ChangePinName(JP105, 2, 2)
-ChangePinName(JP105, 3, 3)
-
-# Start of element JP106
-ChangePinName(JP106, 1, 1)
-ChangePinName(JP106, 2, 2)
-ChangePinName(JP106, 3, 3)
 
 # Start of element J103
 ChangePinName(J103, 2, 2)
