@@ -1950,6 +1950,10 @@ Layer(1 "component")
 	(
 		[2089.00mil 974.00mil] [1966.00mil 974.00mil] [1966.00mil 1604.00mil] [2089.00mil 1604.00mil] 
 	)
+	Polygon("clearpoly")
+	(
+		[2156.00mil 1601.00mil] [2080.00mil 1601.00mil] [2080.00mil 1554.00mil] [2156.00mil 1554.00mil] 
+	)
 )
 Layer(2 "GND")
 (
@@ -2143,8 +2147,6 @@ Layer(4 "solder")
 	Line[282.00mil 1528.00mil 140.00mil 1528.00mil 6.00mil 12.00mil ""]
 	Line[270.00mil 616.00mil 134.00mil 616.00mil 6.00mil 12.00mil ""]
 	Line[273.00mil 340.00mil 142.00mil 340.00mil 6.00mil 12.00mil ""]
-	Line[870.00mil 1442.00mil 870.00mil 477.00mil 6.00mil 12.00mil ""]
-	Line[870.00mil 477.00mil 972.00mil 375.00mil 6.00mil 12.00mil ""]
 	Line[972.00mil 375.00mil 2250.00mil 375.00mil 6.00mil 12.00mil ""]
 	Line[2250.00mil 375.00mil 2397.00mil 228.00mil 6.00mil 12.00mil ""]
 	Line[2397.00mil 228.00mil 3000.00mil 228.00mil 6.00mil 12.00mil ""]
@@ -2162,6 +2164,9 @@ Layer(4 "solder")
 	Line[293.00mil 1786.00mil 104.00mil 1786.00mil 30.00mil 20.00mil ""]
 	Line[270.00mil 609.00mil 126.00mil 609.00mil 30.00mil 20.00mil ""]
 	Line[273.00mil 341.00mil 144.00mil 341.00mil 30.00mil 20.00mil ""]
+	Line[870.00mil 1445.00mil 870.00mil 450.00mil 6.00mil 12.00mil "clearline"]
+	Line[870.00mil 450.00mil 945.00mil 375.00mil 6.00mil 12.00mil "clearline"]
+	Line[945.00mil 375.00mil 993.00mil 375.00mil 6.00mil 12.00mil "clearline"]
 	Polygon("clearpoly")
 	(
 		[235.00mil 387.00mil] [2090.00mil 387.00mil] [2090.00mil 1718.00mil] [235.00mil 1718.00mil] 
