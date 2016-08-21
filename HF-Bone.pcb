@@ -2464,9 +2464,9 @@ Layer(10 "silk")
 	Text[395.00mil 533.00mil 0 122 "HF-Bone" "clearline"]
 	Text[1459.00mil 1232.00mil 0 122 "DVDD" "clearline"]
 	Text[1459.00mil 671.00mil 0 122 "AVDD" "clearline"]
-	Text[48.9066mm 31.3685mm 0 122 "A" "clearline"]
-	Text[48.9137mm 33.9797mm 0 122 "D" "clearline"]
-	Text[48.9074mm 36.5162mm 0 122 "G" "clearline"]
+	Text[1926.20mil 33.9925mm 0 122 "A" "clearline"]
+	Text[48.9194mm 36.5406mm 0 122 "D" "clearline"]
+	Text[48.9303mm 31.4476mm 0 122 "G" "clearline"]
 	Text[48.0494mm 39.0612mm 0 122 "+5" "clearline"]
 	Polygon("pin,via")
 	(
