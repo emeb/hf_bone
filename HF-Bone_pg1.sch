@@ -1,4 +1,4 @@
-v 20111231 2
+v 20130925 2
 C 1000 1000 0 0 0 EMBEDDEDtitle-bordered-C.sym
 [
 T 22000 17900 15 8 1 0 0 4 1
@@ -141,7 +141,7 @@ B 1000 1000 22000 17000 15 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 T 15900 1600 5 10 1 1 0 0 1
 file=HF-Bone_pg1.sch
 T 19900 1300 5 10 1 1 0 0 1
-author=Tom King / Eric Brombaugh
+author=Eric Brombaugh / Tom King
 }
 C 13800 2000 1 0 0 EMBEDDEDmount_hole.sym
 [

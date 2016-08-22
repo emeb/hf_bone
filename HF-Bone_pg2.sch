@@ -139,7 +139,7 @@ graphical=1
 ]
 {
 T 34500 27800 5 10 1 1 0 0 1
-author=Tom King / Eric Brombaugh
+author=Eric Brombaugh / Tom King 
 T 30600 28100 5 10 1 1 0 0 1
 file=HF-Bone_pg2.sch
 }
