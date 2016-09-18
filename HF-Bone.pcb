@@ -9,9 +9,9 @@ Grid[100.000000 0.0000 0.0000 0]
 PolyArea[200000000.000000]
 Thermal[0.500000]
 DRC[5.00mil 5.00mil 5.00mil 6.00mil 10.00mil 4.00mil]
-Flags("nameonpcb,clearnew,snappin")
+Flags("nameonpcb,clearnew")
 Groups("1,c:2:3:4,s:5:6:7:8")
-Styles["Signal,6.00mil,27.00mil,13.00mil,6.00mil:Power,30.00mil,40.00mil,20.00mil,10.00mil:50ohm,12.00mil,8.00mil,4.00mil,12.00mil:Skinny,5.00mil,10.00mil,10.00mil,5.00mil"]
+Styles["Signal,6.00mil,27.00mil,13.00mil,6.00mil:Power,30.00mil,40.00mil,20.00mil,10.00mil:50ohm,12.00mil,8.00mil,10.00mil,12.00mil:Skinny,5.00mil,10.00mil,10.00mil,5.00mil"]
 
 Symbol[' ' 18.00mil]
 (
@@ -932,6 +932,14 @@ Via[2142.00mil 1159.00mil 40.00mil 20.00mil 0.0000 20.00mil "" "thermal(0S,1S)"]
 Via[6.9120mm 10.3944mm 40.00mil 20.00mil 0.0000 20.00mil "" "thermal(0S,1S,3S)"]
 Via[856.00mil 1232.00mil 27.00mil 12.00mil 0.0000 13.00mil "" ""]
 Via[855.00mil 1039.00mil 27.00mil 12.00mil 0.0000 13.00mil "" "thermal(1X)"]
+Via[2594.00mil 1261.00mil 14.00mil 24.00mil 0.0000 10.00mil "" "thermal(1S)"]
+Via[2672.00mil 1261.00mil 14.00mil 24.00mil 0.0000 10.00mil "" "thermal(1S)"]
+Via[2761.00mil 1261.00mil 14.00mil 24.00mil 0.0000 10.00mil "" "thermal(1S)"]
+Via[2825.00mil 1261.00mil 14.00mil 24.00mil 0.0000 10.00mil "" "thermal(1S)"]
+Via[2714.00mil 1218.00mil 14.00mil 24.00mil 0.0000 10.00mil "" "thermal(1S)"]
+Via[2714.00mil 1297.00mil 14.00mil 24.00mil 0.0000 10.00mil "" "thermal(1S)"]
+Via[2714.00mil 1368.00mil 14.00mil 24.00mil 0.0000 10.00mil "" "thermal(1S)"]
+Via[2714.00mil 1158.00mil 14.00mil 24.00mil 0.0000 10.00mil "" "thermal(0X,1S)"]
 
 Element["" "mount_hole_125" "MH2" "unknown" 3175.00mil 250.00mil -50.00mil -25.00mil 0 75 ""]
 (
@@ -2131,6 +2139,30 @@ Layer(3 "power")
 	Polygon("clearpoly")
 	(
 		[23.4286mm 51.5674mm] [26.0548mm 51.5674mm] [26.0548mm 53.8714mm] [23.4286mm 53.8714mm] 
+	)
+	Polygon("clearpoly")
+	(
+		[1781.00mil 1748.00mil] [1975.00mil 1748.00mil] [1975.00mil 1650.00mil] [1781.00mil 1650.00mil] 
+	)
+	Polygon("clearpoly")
+	(
+		[1999.00mil 1426.00mil] [1726.00mil 1426.00mil] [1726.00mil 1511.00mil] [1999.00mil 1511.00mil] 
+	)
+	Polygon("clearpoly")
+	(
+		[1738.00mil 1134.00mil] [2411.00mil 1134.00mil] [2411.00mil 989.00mil] [1738.00mil 989.00mil] 
+	)
+	Polygon("clearpoly")
+	(
+		[2434.00mil 1416.00mil] [1812.00mil 1416.00mil] [1812.00mil 1111.00mil] [2434.00mil 1111.00mil] 
+	)
+	Polygon("clearpoly")
+	(
+		[2032.00mil 1670.00mil] [2876.00mil 1670.00mil] [2876.00mil 1776.00mil] [2032.00mil 1776.00mil] 
+	)
+	Polygon("clearpoly")
+	(
+		[2485.00mil 1482.00mil] [2103.00mil 1482.00mil] [2103.00mil 1408.00mil] [2485.00mil 1408.00mil] 
 	)
 )
 Layer(4 "solder")
