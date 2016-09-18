@@ -810,7 +810,6 @@ Via[2975.00mil 1085.00mil 27.00mil 12.00mil 0.0000 13.00mil "" ""]
 Via[2975.00mil 1125.00mil 27.00mil 12.00mil 0.0000 13.00mil "" ""]
 Via[3060.00mil 1480.00mil 27.00mil 12.00mil 0.0000 13.00mil "" ""]
 Via[2977.00mil 1047.00mil 27.00mil 12.00mil 0.0000 13.00mil "" ""]
-Via[2977.00mil 1007.00mil 27.00mil 12.00mil 0.0000 13.00mil "" ""]
 Via[2975.00mil 965.00mil 27.00mil 12.00mil 0.0000 13.00mil "" ""]
 Via[2822.00mil 1505.00mil 27.00mil 12.00mil 0.0000 13.00mil "" ""]
 Via[2600.00mil 1520.00mil 27.00mil 12.00mil 0.0000 13.00mil "" ""]
@@ -936,6 +935,8 @@ Via[2602.00mil 1260.00mil 27.00mil 12.00mil 0.0000 13.00mil "" "thermal(1S)"]
 Via[2714.00mil 1375.00mil 27.00mil 12.00mil 0.0000 13.00mil "" "thermal(1S)"]
 Via[2824.00mil 1261.00mil 27.00mil 12.00mil 0.0000 13.00mil "" "thermal(1S)"]
 Via[2714.00mil 1148.00mil 27.00mil 12.00mil 0.0000 13.00mil "" "thermal(1S)"]
+Via[2977.00mil 1008.00mil 27.00mil 12.00mil 0.0000 13.00mil "" ""]
+Via[2935.00mil 1087.00mil 27.00mil 12.00mil 0.0000 13.00mil "" ""]
 
 Element["" "mount_hole_125" "MH2" "unknown" 3175.00mil 250.00mil -50.00mil -25.00mil 0 75 ""]
 (
@@ -1271,7 +1272,7 @@ Element["" "my_0603_sm" "C118" "0.1uf" 2906.00mil 1504.00mil 71.00mil -16.00mil 
 
 	)
 
-Element["" "my_0603_sm" "C117" "0.1uf" 2889.00mil 1033.00mil -80.00mil -59.00mil 0 60 ""]
+Element["" "my_0603_sm" "C117" "0.1uf" 2889.00mil 1033.00mil -45.00mil -102.00mil 0 60 ""]
 (
 	Pad[-35.43mil 0.0000 -31.49mil 0.0000 39.37mil 10.00mil 44.00mil "1" "1" "square"]
 	Pad[31.49mil 0.0000 35.43mil 0.0000 39.37mil 10.00mil 44.00mil "2" "2" "square,edge2"]
@@ -1975,6 +1976,12 @@ Layer(1 "component")
 	Line[855.00mil 30.0599mm 855.00mil 1231.00mil 6.00mil 12.00mil "clearline"]
 	Line[855.00mil 1231.00mil 856.00mil 1232.00mil 6.00mil 12.00mil "clearline"]
 	Line[855.00mil 28.3601mm 855.00mil 1039.00mil 6.00mil 12.00mil "clearline"]
+	Line[2822.00mil 1083.00mil 2822.00mil 1097.00mil 5.00mil 10.00mil "clearline"]
+	Line[2875.00mil 1099.00mil 2871.00mil 1103.00mil 5.00mil 10.00mil "clearline"]
+	Line[2871.00mil 1103.00mil 2828.00mil 1103.00mil 5.00mil 10.00mil "clearline"]
+	Line[2822.00mil 1097.00mil 2828.00mil 1103.00mil 5.00mil 10.00mil "clearline"]
+	Line[2875.00mil 1099.00mil 2923.00mil 1099.00mil 5.00mil 10.00mil "clearline"]
+	Line[2923.00mil 1099.00mil 2934.00mil 1088.00mil 5.00mil 10.00mil "clearline"]
 	Arc[1900.00mil 518.00mil 44.00mil 44.00mil 12.00mil 24.00mil -180 90 "clearline"]
 	Arc[2396.00mil 1038.00mil 29.00mil 29.00mil 6.00mil 12.00mil 180 90 "clearline"]
 	Arc[2373.00mil 1132.00mil 24.00mil 24.00mil 6.00mil 12.00mil 180 90 "clearline"]
@@ -2298,6 +2305,13 @@ Layer(4 "solder")
 	Line[1790.00mil 1146.00mil 1811.00mil 1167.00mil 6.00mil 12.00mil ""]
 	Line[1811.00mil 1167.00mil 1811.00mil 1911.00mil 6.00mil 12.00mil ""]
 	Line[1811.00mil 1911.00mil 1823.00mil 1923.00mil 6.00mil 12.00mil ""]
+	Line[3262.00mil 1399.00mil 3225.00mil 1399.00mil 5.00mil 10.00mil "clearline"]
+	Line[3225.00mil 1399.00mil 3218.00mil 1406.00mil 5.00mil 10.00mil "clearline"]
+	Line[3218.00mil 1406.00mil 3168.00mil 1406.00mil 5.00mil 10.00mil "clearline"]
+	Line[3168.00mil 1406.00mil 3131.00mil 1443.00mil 5.00mil 10.00mil "clearline"]
+	Line[3131.00mil 1443.00mil 2987.00mil 1443.00mil 5.00mil 10.00mil "clearline"]
+	Line[2987.00mil 1443.00mil 2935.00mil 1391.00mil 5.00mil 10.00mil "clearline"]
+	Line[2935.00mil 1391.00mil 2935.00mil 1087.00mil 5.00mil 10.00mil "clearline"]
 	Polygon("clearpoly")
 	(
 		[995.00mil 605.00mil] [1781.00mil 605.00mil] [1781.00mil 1136.00mil] [995.00mil 1136.00mil] 
@@ -2648,6 +2662,11 @@ NetList()
 		Connect("J101-16")
 		Connect("U103-2")
 	)
+	Net("JD6" "(unknown)")
+	(
+		Connect("J101-17")
+		Connect("U103-19")
+	)
 	Net("JD7" "(unknown)")
 	(
 		Connect("J101-18")
@@ -2663,10 +2682,6 @@ NetList()
 		Connect("P9-41")
 		Connect("R103-2")
 		Connect("U103-53")
-	)
-	Net("N/A" "(unknown)")
-	(
-		Connect("J101-17")
 	)
 	Net("OSCIN" "(unknown)")
 	(
